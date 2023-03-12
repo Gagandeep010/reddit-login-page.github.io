@@ -35,7 +35,6 @@ span:hover{
     height: 100vh;
     margin-right: 2%;
     background-image: url(./assets/redplanet.jpeg);
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -97,7 +96,6 @@ span:hover{
 .input-form input{
     padding: 5% 3%;
     margin: 2% 0%;
-    border-style: unset;
     border-radius: 3px;
     border: 1px solid #00000030;
 }
